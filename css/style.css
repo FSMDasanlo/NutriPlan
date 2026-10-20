@@ -32,7 +32,7 @@ body {
 .top { position: relative; overflow: hidden; border-radius: 0 0 28px 28px; box-shadow: 0 8px 28px rgba(0, 0, 0, .4); }
 .top-bg {
   position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(10, 26, 84, .55), rgba(10, 26, 84, .92)), url("../img/spartan_race.jpg") center 35% / cover;
+  background: linear-gradient(180deg, rgba(10, 26, 84, .55), rgba(10, 26, 84, .92)), url("../img/spartan_race_3.jpeg") center 15% / cover;
 }
 .top-inner, .countdown { position: relative; max-width: 640px; margin: 0 auto; }
 .top-inner { display: flex; align-items: center; gap: .85rem; padding: calc(.9rem + env(safe-area-inset-top)) 1rem .4rem; }
